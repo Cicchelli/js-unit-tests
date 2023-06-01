@@ -25,6 +25,4 @@ let sum = 0;
   sum = Math.round(sum / (arr.length));
   return sum;
 };
-
-
 module.exports = average;
